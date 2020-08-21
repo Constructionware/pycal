@@ -1,8 +1,8 @@
 # pycal/calculator.py
 #from pprint import pprint
 #import math
-from pycal.pycal.construction import Wall, Roof
-from pycal.pycal.materials import Water
+from pycal.construction import Wall, Roof
+from pycal.materials import Water
 
 class Calculator(
     # Plugins

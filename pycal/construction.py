@@ -2,8 +2,8 @@
 
 import uuid
 from time import time, ctime
-from pycal.pycal.functions import Geometry
-from pycal.pycal.library import Library, library
+from pycal.functions import Geometry
+from pycal.library import Library, library
 
 
 class Door:
