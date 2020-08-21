@@ -1,0 +1,3 @@
+graft pycal
+graft pycal/tests
+global-exclude *.pyc
