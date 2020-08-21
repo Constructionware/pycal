@@ -103,7 +103,7 @@ class Geometry(
         if length and width:
             objectr = {
                 "area": length * width,
-                "perimeter": (2 * length) + (2 * length)
+                "perimeter": (2 * length) + (2 * width)
             }
             if  length == width:
                 objectr['figure'] = 'Square'
